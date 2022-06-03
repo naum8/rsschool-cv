@@ -25,7 +25,7 @@ _My name is Andrey Naumenko. I am 29 years old. I am a Junior front-end develope
 * BEM
 * SVG/Canvas
 
-**English Proficiency: A2**
+**English Proficiency: A2+**
 ****
 
 ## Code Example
